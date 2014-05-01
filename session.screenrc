@@ -1,0 +1,2 @@
+screen 0 ./servelogs.sh
+screen 1 ./clearlogs.sh
